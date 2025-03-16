@@ -153,13 +153,10 @@ Cinemate
    - Styled using **TailwindCSS**.
    - Mobile-first layout with grid-based movie listings.
 
-## Future Enhancements 🚀
+## Demo.gif 🚀
 
-- ✅ Add **User Authentication** (Login/Signup).
-- ✅ Implement **Favorites & Watchlist** feature.
-- ✅ Improve **Search Suggestions & Auto-Complete**.
-- ✅ Add **Movie Trailers & Cast Information**.
-- ✅ Optimize API calls using **React Query** or **Redux Toolkit**.
+
+
 
 ## Contributing 🤝
 

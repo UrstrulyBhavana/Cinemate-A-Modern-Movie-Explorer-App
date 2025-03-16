@@ -153,7 +153,9 @@ Cinemate
    - Styled using **TailwindCSS**.
    - Mobile-first layout with grid-based movie listings.
 
-## Demo.gif 🚀
+## 🎥 Watch Cinemate UI in Action
+
+https://github.com/user-attachments/assets/8201a151-4f3a-419b-9cdc-4200fa664452
 
 
 

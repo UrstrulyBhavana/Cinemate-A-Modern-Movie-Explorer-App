@@ -155,7 +155,7 @@ Cinemate
 
 ## Demo.gif 🚀
 
-https://github.com/user-attachments/assets/f3cb59b2-63df-417f-900c-6752276a6702
+🎥 [Watch Demo Video](https://drive.google.com/file/d/1SD1rOD1g3cEszQb2jiiVF2QHaXOEnyYS/view?usp=drive_link)
 
 
 ## Contributing 🤝

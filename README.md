@@ -155,7 +155,6 @@ Cinemate
 
 ## Demo.gif 🚀
 
-🎥 [Watch Demo Video](https://drive.google.com/file/d/1SD1rOD1g3cEszQb2jiiVF2QHaXOEnyYS/view?usp=drive_link)
 
 
 ## Contributing 🤝

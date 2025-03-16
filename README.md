@@ -155,6 +155,9 @@ Cinemate
 
 ## Demo.gif 🚀
 
+![Demo](https:https://i.imgur.com/5H7If79.gif)
+
+
 
 
 

@@ -124,6 +124,15 @@ npm start
 
 ---
 
+---
+
+## 🔗 API Reference
+
+- **TMDB (The Movie Database) API**:  
+  All movie data — including posters, titles, overviews, and ratings — is fetched in real-time from [The Movie Database API](https://www.themoviedb.org/documentation/api).
+
+---
+
 ## 🙋‍♀️ Author
 
 **Linga Bhavana** – Frontend Developer

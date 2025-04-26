@@ -113,7 +113,7 @@ npm start
 
 ---
 
-## 🔍 Functionalities Recap
+## 🧩 Functionalities Recap
 
 1. Homepage lists trending movies via TMDB.
 2. Users can search movies using the input bar.
